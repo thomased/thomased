@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there!
 
-<!--
-**thomased/thomased** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an evolutionary ecologist in the School of Life and Environmental Sciences at [The University of Sydney](https://www.sydney.edu.au), Sydney, Australia. I lead [The Evolutionary and Sensory Ecology Lab](http://tomwhite.io), where we use lab and field experiments, modelling, and meta-analysis to answer questions of adaptive evolution and behaviour. 
 
-Here are some ideas to get you started:
+#### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [pavo](http://pavo.colrverse.com): an R package for the spectral and spatial analysis of colour in nature
+- [lightr](http://lightr.colrverse.com): tools for importing and process diverse spectral data in R (lead by [Hugo Gruson](https://www.normalesup.org/~hgruson/))
+- The [colRverse](https://colrverse.com): a growing community of packages for understanding the physiology, ecology, and evolution of biological colouration
+
+#### Get in touch
+
+- Website: [https://tomwhite.io](https://tomwhite.io)
+- Email: thomas.white (at) sydney (dot) edu (dot) au 
