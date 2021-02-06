@@ -11,4 +11,4 @@ I'm an evolutionary ecologist in the School of Life and Environmental Sciences a
 ## Get in touch
 
 - Website: [https://tomwhite.io](https://tomwhite.io)
-- Email: thomas.white (at) sydney (dot) edu (dot) au 
+- Email: thomas (dot) white (at) sydney (dot) edu (dot) au 
