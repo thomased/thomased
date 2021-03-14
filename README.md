@@ -4,6 +4,8 @@ I'm an evolutionary ecologist in the School of Life and Environmental Sciences a
 
 ## Projects
 
+![tetra](https://user-images.githubusercontent.com/6053453/111086145-c13f9b00-856e-11eb-9c0c-1ae4db00283f.gif)
+
 - [pavo](http://pavo.colrverse.com): an R package for the spectral and spatial analysis of colour in nature
 - [lightr](http://lightr.colrverse.com): tools for importing and process diverse spectral data in R (lead by [Hugo Gruson](https://www.normalesup.org/~hgruson/))
 - The [colRverse](https://colrverse.com): a growing community of packages for understanding the physiology, ecology, and evolution of biological colouration
