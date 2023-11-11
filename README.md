@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm an evolutionary ecologist in the School of Life and Environmental Sciences at [The University of Sydney](https://www.sydney.edu.au), Sydney, Australia. I lead [The Evolutionary and Sensory Ecology Lab](http://tomwhite.io), where we use lab and field experiments, modelling, and meta-analysis to answer questions of adaptive evolution and behaviour. 
+I'm an evolutionary ecologist in the School of Life and Environmental Sciences at [The University of Sydney](https://www.sydney.edu.au), Sydney, Australia. I lead [The Sensory and Evolutionary Ecology (SEE) Lab](http://tomwhite.io), where we use lab and field experiments, modelling, and meta-analysis to answer questions of adaptive evolution and behaviour. 
 
 ## Projects
 
